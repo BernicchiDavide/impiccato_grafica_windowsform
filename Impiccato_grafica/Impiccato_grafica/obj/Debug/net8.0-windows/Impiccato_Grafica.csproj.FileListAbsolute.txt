@@ -1,0 +1,17 @@
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato_Grafica\Impiccato_Grafica\bin\Debug\net8.0-windows\Impiccato_Grafica.exe
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato_Grafica\Impiccato_Grafica\bin\Debug\net8.0-windows\Impiccato_Grafica.deps.json
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato_Grafica\Impiccato_Grafica\bin\Debug\net8.0-windows\Impiccato_Grafica.runtimeconfig.json
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato_Grafica\Impiccato_Grafica\bin\Debug\net8.0-windows\Impiccato_Grafica.dll
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato_Grafica\Impiccato_Grafica\bin\Debug\net8.0-windows\Impiccato_Grafica.pdb
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato_Grafica\Impiccato_Grafica\obj\Debug\net8.0-windows\Impiccato_Grafica.Form1.resources
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato_Grafica\Impiccato_Grafica\obj\Debug\net8.0-windows\Impiccato_Grafica.csproj.GenerateResource.cache
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato_Grafica\Impiccato_Grafica\obj\Debug\net8.0-windows\Impiccato_Grafica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato_Grafica\Impiccato_Grafica\obj\Debug\net8.0-windows\Impiccato_Grafica.AssemblyInfoInputs.cache
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato_Grafica\Impiccato_Grafica\obj\Debug\net8.0-windows\Impiccato_Grafica.AssemblyInfo.cs
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato_Grafica\Impiccato_Grafica\obj\Debug\net8.0-windows\Impiccato_Grafica.csproj.CoreCompileInputs.cache
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato_Grafica\Impiccato_Grafica\obj\Debug\net8.0-windows\Impiccato_Grafica.dll
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato_Grafica\Impiccato_Grafica\obj\Debug\net8.0-windows\refint\Impiccato_Grafica.dll
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato_Grafica\Impiccato_Grafica\obj\Debug\net8.0-windows\Impiccato_Grafica.pdb
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato_Grafica\Impiccato_Grafica\obj\Debug\net8.0-windows\Impiccato_Grafica.genruntimeconfig.cache
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato_Grafica\Impiccato_Grafica\obj\Debug\net8.0-windows\ref\Impiccato_Grafica.dll
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato_grafica\Impiccato_Grafica\obj\Debug\net8.0-windows\Impiccato_Grafica.Properties.Resources.resources
